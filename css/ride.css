@@ -20,7 +20,7 @@ html, body, #main, #map {
 
 #request {
     position: relative;
-    background: #fcc1d4 none repeat scroll 0 0;
+    background: #7c96ce none repeat scroll 0 0;
     color: #000;
     border-color: #000;
     border-radius: 5px;
@@ -29,8 +29,8 @@ html, body, #main, #map {
 }
 
 #request:disabled {
-    color: #999;
-    border-color: #999;
+    color: #616161;
+    border-color: #616161;
 }
 
 #accountLink {
@@ -45,9 +45,9 @@ html, body, #main, #map {
 
 #updates li {
     margin: 3px 0;
-    border: 1px solid #ccc;
+    border: 1px solid #807b7b;
     border-radius: 5px;
-    background-color: #f7f7f7;
+    background-color: #ff6c6c;
     padding: 5px;
 }
 
